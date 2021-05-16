@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  },
+  "name": "midtermexam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000M\u0000i\u0000d\u0000t\u0000e\u0000r\u0000m\u0000-\u0000E\u0000x\u0000a\u0000m\u0000\r\u0000 \u0000",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewamparo/Midterm-Exam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewamparo/Midterm-Exam/issues"
+  },
+  "homepage": "https://github.com/matthewamparo/Midterm-Exam#readme"
+}
